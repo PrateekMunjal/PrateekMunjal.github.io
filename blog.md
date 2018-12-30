@@ -1,7 +1,11 @@
 ---
-layout: default
+layout: page
+title: All Posts
+permalink: /blog/
 ---
+This is blog landing page
 
+### POSTS
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -16,3 +20,8 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+### Contact me
+
+[2017CSM1009@iitrpr.ac.in](mailto:2017CSM1009@iitrpr.ac.in)
+[prateekmunjal31@google.com](mailto:prateekmunjal31@google.com)
