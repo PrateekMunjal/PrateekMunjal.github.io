@@ -1,11 +1,11 @@
 ---
 layout: page
-title: All Posts
+title: Machine Learning Research
 permalink: /blog/
 ---
-This is blog landing page
+Hi reader! I will be sharing my posts here, which will be focused on different papers and implementation hacks in the area of machine learning research. If you find any mistake, please feel free to comment under the comment section of related post. Alternatively, one can also write up to my email, i.e, 2017csm1009@iitrpr.ac.in -- Just remember to add a subject line: **'_regardind blog <blog\_title>_'**
 
-### POSTS
+### Following enlist all the posts written so far:
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
