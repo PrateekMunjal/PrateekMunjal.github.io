@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Prateek Munjal
-
+name: Machine Learning Research
 # Short bio or description (displayed in the header)
-description: Personal Blog
+description: Prateek's Personal Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /images/profile_pic.jpg 
+  #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -18,14 +18,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: 2017csm1009@iitrpr.ac.in
+  facebook: 
   flickr:
-  github: barryclark/jekyll-now
+  github: PrateekMunjal
   instagram:
-  linkedin:
+  linkedin: prateek-munjal-9943318b/
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: Hello world # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: prateekmlr
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -77,6 +77,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
 
 # Exclude these files from your production _site
 exclude:

@@ -12,4 +12,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+* [2017CSM1009@iitrpr.ac.in](mailto:2017CSM1009@iitrpr.ac.in)
+* [prateekmunjal31@google.com](mailto:prateekmunjal31@google.com)
